@@ -5,7 +5,6 @@
 package SQL;
 import java.sql.Connection;
 import java.sql.DriverManager;
-import javax.swing.JDesktopPane;
 import javax.swing.JOptionPane;
 /**
  *
